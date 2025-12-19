@@ -1,0 +1,6 @@
+Jan 10 14:22:01 server sshd[12345]: Failed password for invalid user root from 185.22.10.5 port 54421 ssh2
+Jan 10 14:22:05 server sshd[12346]: Failed password for admin from 104.168.23.44 port 60012 ssh2
+Jan 10 14:22:06 server sshd[12347]: Accepted password for twisha from 192.168.1.25 port 50333 ssh2
+Jan 10 14:22:10 server sshd[12348]: Failed password for admin from 104.168.23.44 port 60012 ssh2
+Jan 10 14:22:13 server sudo:   root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/bash
+
