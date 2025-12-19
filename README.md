@@ -81,8 +81,3 @@ GitHub: [@Itstwisha](https://github.com/Itstwisha)
 ## License
 
 MIT License
-
-
-
-Just tell me: **Port Scanner or URL Detector?**
-```
